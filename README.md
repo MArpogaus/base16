@@ -60,7 +60,7 @@ To add your own template, submit a pull request to https://github.com/chriskemps
 * [st](https://github.com/honza/base16-st) maintained by [honza](https://github.com/honza)
 * [StumpWM](https://github.com/tpine/base16-stumpwm) maintained by [tpine](https://github.com/tpine)
 * [Sway](https://github.com/rkubosz/base16-sway) maintained by [rkubosz](https://github.com/rkubosz)
-* [Terminal](https://github.com/MArpogaus/base16-terminal) maintained by [MArpogaus](https://github.com/MArpogaus)
+* [TTY](https://github.com/MArpogaus/base16-tty) maintained by [MArpogaus](https://github.com/MArpogaus)
 * [Termite](https://github.com/khamer/base16-termite) maintained by [khamer](https://github.com/khamer)
 * [Termux](https://github.com/kdrag0n/base16-termux) maintained by [kdrag0n](https://github.com/kdrag0n)
 * [Textadept](https://github.com/rgieseke/base16-textadept) maintained by [rgieseke]( https://github.com/rgieseke)
